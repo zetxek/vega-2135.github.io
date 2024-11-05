@@ -2,12 +2,12 @@
 showcase:
   enable: true
   title: "Hello, I’m Carolina."
-  subtitle: "Software Engineer extraordinaire"
+  subtitle: "Junior Software Developer"
   description: >
-    This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href="https://adritian-demo.vercel.app/">as a demo site</a> or <a target='_blank' href="https://www.adrianmoreno.info">a real one</a>.<br>You can find this content to edit in the theme.yaml file.
+    I'm a curious and adaptable Junior Full Stack Developer, embarking on an exciting journey from the world of medical science to the dynamic field of software engineering.
   image:
-    x: "images/showcase/showcase.png"
-    _2x: "images/showcase/showcase@2x.png"
+    x: "images/my_photos/me_2.png"
+    _2x: "images/my_photos/me_2@2x.png"
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
@@ -23,45 +23,19 @@ showcase:
     - icon: "github"
       URL: "https://github.com/zetxek"
 
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
-
 # about
 about:
   enable: true
   title: "Who am I?"
   content: >
     <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
-      </p>
-      <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      I am a dedicated Full Stack Developer with a unique journey that combines medical science and software development. 
+    </p>
+    <p class="lead">
+      My transition from medicine to technology exemplifies my adaptability and commitment to continuous learning. 
+      Having completed an intensive Full Stack Software Development program at Code Institute, I've developed a comprehensive  
+      understanding of both front-end and back-end technologies. As an enthusiastic and driven developer, I approach each project 
+      with analytical precision honed through my medical background  and master's in biomedical sciences. 
     </p>
   button:
     icon: "icon-smile-fill"
@@ -74,19 +48,17 @@ about:
 # education
 education:
   enable: true
-  title: "Education"
+  title: "Experience"
   items:
-    - university: "University of Life"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "Frontend Development"
+      degree: "HTML, CSS, JavaScript, Bootstrap"
 
-    - university: "High School of Hard Knocks"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "Backend Development"
+      degree: "Python, Django, Flask, SQL"
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
   description: >
    This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.
@@ -101,12 +73,12 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Projects"
   enable: true
   
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -139,22 +111,13 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+555 (11) 123 44 55"
-  email:
-    title: "Email"
-    email: '<a href="mailto:mail@example.com">mail@example.com</a>'
-  address:
-    title: "Address"
-    address: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
