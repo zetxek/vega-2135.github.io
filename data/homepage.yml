@@ -40,10 +40,10 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/mariacromeroc/"
   image:
-    x: "images/who-am-i/user-picture.png"
-    _2x: "images/who-am-i/user-picture@2x.png"
+    x: "images/my_photos/me_3.jpg"
+    _2x: "images/my_photos/me_3@2x.jpg"
 
 # education
 education:
