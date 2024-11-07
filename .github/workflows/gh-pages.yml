@@ -5,6 +5,9 @@ on:
     branches:
       - main  # Set a branch to deploy
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
@@ -29,6 +32,7 @@ jobs:
           # hash as a part of the cache key.
           # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
           cache-dependency-path: '**/package-lock.json'
+
       - run: npm ci
 
       - name: Build
