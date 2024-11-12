@@ -8,8 +8,8 @@ showcase:
   description: >
     I'm a curious and adaptable Junior Full Stack Developer, embarking on an exciting journey from the world of medical science to the dynamic field of software engineering.
   image:
-    x: "images/my_photos/me_2.png"
-    _2x: "images/my_photos/me_2@2x.png"
+    x: "images/my_photos/me_image_1.jpeg"
+    _2x: "images/my_photos/me_image_1@2x.jpeg"
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
