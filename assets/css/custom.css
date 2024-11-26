@@ -11,3 +11,21 @@
 .lead {
     text-align: justify;
 }
+
+.education {
+    justify-content: flex-start;
+}
+
+.experience-title {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card {
+    border-radius: 5px;
+}
+
+.technologies {
+    margin-top: 10px;
+}
