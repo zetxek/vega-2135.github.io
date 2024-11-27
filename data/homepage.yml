@@ -53,15 +53,18 @@ education:
   title: "Experience"
   items:
     - university: "Frontend Development"
-      degree: [
-        -HTML 
-        -CSS, 
-        -JavaScript, 
-        -Bootstrap
-        ]
+      degree: 
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "Bootstrap"
 
     - university: "Backend Development"
-      degree: "Python, Django, Flask, SQL"
+      degree: 
+        - "Python" 
+        - "Django"
+        - "Flask"
+        - "SQL"
 
 # experience
 experience:

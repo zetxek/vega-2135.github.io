@@ -28,4 +28,15 @@
 
 .technologies {
     margin-top: 10px;
+    display: flex;
+}
+
+.section li::marker {
+    color: rgb(68, 104, 68) !important;
+    font-size: 1.5rem;
+}
+
+.tech-list-items {
+    font-size: 1rem;
+    font-weight: 700;
 }
