@@ -79,8 +79,8 @@ theme = "adritian-free-hugo-theme"
       enabled = false
   
   [params.logo]
-    text1 = "Caro"
-    text2 = "Lina"
+    text1 = "Carolina"
+    text2 = ""
 
   [params.footer]
       copyright = "© Carolina 2024."
