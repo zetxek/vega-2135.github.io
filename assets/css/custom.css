@@ -44,3 +44,8 @@
 .second-education-ul {
     margin-left: 50px;
 }
+
+.section--contact .container {
+    border: solid 2px black;
+    border-radius: 5px;
+}
