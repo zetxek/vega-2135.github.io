@@ -49,3 +49,8 @@
     border: solid 2px black;
     border-radius: 5px;
 }
+
+.cv-icon {
+    color: black;
+    margin-left: 5px;
+}
