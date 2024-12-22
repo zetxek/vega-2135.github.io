@@ -16,7 +16,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://www.adrianmoreno.info/"
+    URL: "https://vega-2135.github.io/#contact"
 
   socialLinks:
     - icon: "linkedin"
